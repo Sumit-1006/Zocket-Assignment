@@ -6,5 +6,7 @@ The Product Management System is a backend application built in Go for managing 
 RESTful API:
 
 POST /products: Add new products.
+
 GET /products/:id: Retrieve product details by ID.
+
 GET /products: Retrieve all products for a specific user with optional filtering by price range or name.
